@@ -67,22 +67,3 @@ print(miLista3)
 miLista4 = miLista3 * 3
 
 print(miLista4)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
