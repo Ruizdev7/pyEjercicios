@@ -67,3 +67,46 @@ print(miLista3)
 miLista4 = miLista3 * 3
 
 print(miLista4)
+
+
+'''
+
+upper() convierte el string en mayusculas
+lower() convierte el string en minusculas
+capitalize() Funcion Nombre propio en excel primera letra en mayuscula como en el ingles
+count() contar cuantas veces una cadena
+find() representa el indice en el que aparece un dato
+isdigit() True or False si el valor es un digito valor numerico o no lo es
+isalum() boolean es alfanumerico
+isalpha() boolean es alfabetico
+split() separa por palabras utilizando espacion
+strip() borrar espacios sobrantes al comienzo y al final
+replace() reemplaza una letra o palabra por otra
+rfind() representa el indice de un caracter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
